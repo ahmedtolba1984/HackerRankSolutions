@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DynamicProgramming\Coins.cs" />
     <Compile Include="DynamicProgramming\MagicIndex.cs" />
+    <Compile Include="DynamicProgramming\Parens.cs" />
+    <Compile Include="DynamicProgramming\PowerSet.cs" />
+    <Compile Include="DynamicProgramming\RecursiveMultiply.cs" />
     <Compile Include="DynamicProgramming\RobotGrid.cs" />
     <Compile Include="DynamicProgramming\TripleStep.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
